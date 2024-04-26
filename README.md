@@ -31,5 +31,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adil-khursheed&show_icons=true&locale=en" alt="adil-khursheed" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adil-khursheed&" alt="adil-khursheed" /></p>
-
-[![An image of @adilkhursheed's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adilkhursheed)](https://holopin.io/@adilkhursheed)
